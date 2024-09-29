@@ -1,4 +1,4 @@
-![headshot](sarah_pic.jpeg)
+![headshot](sarah_pic.jpg)
 
 # Project Title
 One Paragraph of project description goes here

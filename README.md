@@ -1,83 +1,83 @@
 ![headshot](sarah_pic.jpg)
 
-# Project Title
-One Paragraph of project description goes here
+# Título del proyecto
+Primer proyecto en GitHUb
 
-## Getting Started
+## Primeros pasos
 
 Esta es una prueba del libro guthub para dummies con el cual estoy adiestrandome en el uso de github
 GitHub® For Dummies®
-Published by: John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030-5774, www.wiley.com
-Copyright © 2019 by John Wiley & Sons, Inc., Hoboken, New Jersey
+Publicado por: John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030-5774, www.wiley.com
+Copyright © 2019 por John Wiley & Sons, Inc., Hoboken, Nueva Jersey
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte la sección Implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
 
-### Prerequisite
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+### Prerrequisito
+Qué cosas necesitas para instalar el software y cómo instalarlas
 
 ```
-Give the example
+Dar ejemplos
 ```
 
-And repeat
+### Instalación
+Una serie de ejemplos paso a paso que te indican cómo poner en funcionamiento un entorno de desarrollo
+
+Dir cuál será el paso
 
 ```
-until finished
+Dar el ejemplo
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-Explain what these tests test and why
+Y repetir
 
 ```
-Give an example
+hasta terminar
 ```
 
-### And coding style tests
+Terminar con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración
 
-Explain what these tests test and why
+## Ejecutar las pruebas
+Explicar cómo ejecutar las pruebas automatizadas para este sistema
+
+### Desglosar en pruebas de extremo a extremo
+Explicar qué prueban estas pruebas y por qué
 
 ```
-Give an example
+Dar un ejemplo
 ```
 
-## Deployment
-Add additional notes about how to deploy this on a live system
+### Y pruebas de estilo de codificación
 
-## Built With
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+Explicar qué prueban estas pruebas y por qué
 
-## Contributing
+```
+Dar un ejemplo
+```
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+## Implementación
+Agregar notas adicionales sobre cómo implementar esto en un sistema en vivo
 
-## Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Creado con
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El marco web utilizado
+* [Maven](https://maven.apache.org/) - Gestión de dependencias
+* [ROME](https://rometools.github.io/rome/) - Se utiliza para generar feeds RSS
 
-## Authors
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+## Contribución
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Lea [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obtener detalles sobre nuestro código de conducta y el proceso para enviarnos solicitudes de incorporación de cambios.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+## Control de versiones
+Usamos [SemVer](http://semver.org/) para el control de versiones. Para conocer las versiones disponibles, consulte las [etiquetas en este repositorio](https://github.com/your/project/tags).
 
-## Acknowledgments
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+## Autores
+* **Billie Thompson** - *Trabajo inicial* - [PurpleBooth](https://github.com/PurpleBooth)
+
+Consulte también la lista de [colaboradores](https://github.com/your/project/contributors) que participaron en este proyecto.
+
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT; consulte el archivo [LICENSE.md](LICENSE.md) para obtener más detalles
+
+## Agradecimientos
+* Agradecimientos a todos aquellos cuyo código se utilizó
+* Inspiración
+* etc.
